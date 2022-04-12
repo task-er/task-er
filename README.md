@@ -22,7 +22,6 @@
 
 <p align="center">
   <a href="https://common-dev.tistory.com/">
-    <img src="https://img.shields.io/badge/티스토리-yellowgreen?&label=Blog&query=<//data/subdata>&prefix=<PREFIX>&suffix=<SUFFIX>" />
-    <img src="https://img.shields.io/badge/1996-5e3ace?&label=Birth&query=<//data/subdata>&prefix=<PREFIX>&suffix=<SUFFIX>" />
+    티스토리 블로그
   </a>
 </p> <br /> <br />
