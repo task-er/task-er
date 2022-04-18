@@ -14,4 +14,7 @@
   <a href="https://common-dev.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-222222?logo=Internet Explorer&style=flat-square&style=flat" />
   </a>
+  <a href="https://github.com/mye0ngs00/">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square&style=flat" />
+  </a>
 </p>
