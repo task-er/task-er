@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white&style=flat" />
 </p> 
 
 <h3 align="center">🧠 About Me 🧠</h3>
